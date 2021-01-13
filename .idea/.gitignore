@@ -1,3 +1,12 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+../venv/Lib/
+venv/Scripts/
+venv/file_tools_class_DEBUG.log
+venv/mycode/__init__.py
+venv/mycode/__pycache__/
+venv/mycode/bak/
+venv/mytest/__init__.py
+venv/mytest/__pycache__/
+venv/mytest/bak/
